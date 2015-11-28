@@ -1,4 +1,1 @@
-public static void main()
-{
-  String a= "Hola mundo";
-}
+create database delcorte
